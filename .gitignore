@@ -1,0 +1,27 @@
+# Logs
+frontend/frontend-app/logs/
+frontend/frontend-app/*.log
+frontend/frontend-app/npm-debug.log*
+frontend/frontend-app/yarn-debug.log*
+frontend/frontend-app/yarn-error.log*
+frontend/frontend-app/pnpm-debug.log*
+frontend/frontend-app/lerna-debug.log*
+
+# Dependencies
+frontend/frontend-app/node_modules/
+frontend/frontend-app/dist
+frontend/frontend-app/dist-ssr
+frontend/frontend-app/*.local
+
+# Editor directories and files
+frontend/frontend-app/.vscode/*
+frontend/frontend-app/!.vscode/extensions.json
+frontend/frontend-app/.idea
+frontend/frontend-app/.DS_Store
+frontend/frontend-app/*.suo
+frontend/frontend-app/*.ntvs*
+frontend/frontend-app/*.njsproj
+frontend/frontend-app/*.sln
+frontend/frontend-app/*.sw?
+
+frontend/frontend-app/.env
